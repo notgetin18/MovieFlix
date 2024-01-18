@@ -11,7 +11,7 @@ const Contact = () => {
         <ContactCard />
         <section className={styles.contact_section}>
           <h2>
-            we'd love to hear <span>from you</span>
+            we would love to hear <span>from you</span>
           </h2>
           <ContactForm />
         </section>
